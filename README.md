@@ -2,7 +2,7 @@
 My professional resume built with HTML and CSS.
 
 # Christopher Dinneen | Computer Support Specialist
-[LinkedIn](linkedin.com/in/christopherdinneen-it) | [Email](mailto:christopherdinneen@yahoo.com)
+[LinkedIn](https://linkedin.com/in/christopherdinneen-it) | [Email](mailto:christopherdinneen@yahoo.com)
 
 ## Professional Summary
 Computer Support Specialist with hands-on experience in hardware and software troubleshooting, operating system configuration, and cloud infrastructure. Through intensive training at Per Scholas for CompTIA and Google certifications, I apply critical thinking to solve complex technical issues and social perceptiveness to improve the overall user experience. By combining a commitment to active learning with strong time management, I ensure reliable technical support and contribute to highly efficient IT operations.
