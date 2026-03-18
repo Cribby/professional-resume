@@ -22,7 +22,7 @@ Computer Support Specialist with hands-on experience in hardware and software tr
 * **Video Conferencing Software:** Google Meet, Zoom
 * **Word Processing Software:** Google Docs, Microsoft OneNote, Microsoft Word
 
-##Education
+## Education
 * **Per Scholas:** IT Support Specialist (March 2026)
 * **Lone Star College:** Certificate in Cloud Computing (May 2026)
 * **Lone Star College:** A.S. Computer Engineering (December 2018)
