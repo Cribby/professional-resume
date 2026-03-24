@@ -8,6 +8,8 @@ My professional resume built with HTML and CSS.
 Computer Support Specialist with hands-on experience in hardware and software troubleshooting, operating system configuration, and cloud infrastructure. Through intensive training at Per Scholas for CompTIA and Google certifications, I apply critical thinking to solve complex technical issues and social perceptiveness to improve the overall user experience. By combining a commitment to active learning with strong time management, I ensure reliable technical support and contribute to highly efficient IT operations.
 
 ## Techinical Skills
+* **Hardware & Desktop Support:** PC build and configuration, hardware diagnostics, peripheral setup (printers, scanners, monitors), driver installation, BIOS configuration, device management
+* **Productivity & Collaboration Tools:** Microsoft 365 administration basics, Outlook configuration, Teams, Zoom, shared drive permissions, Google Meet, Google Workspace
 * **AI & Automation tools:** Google Gemini, Copilot, Prompt Engineering
 * **Authentication Server Software:** Google Authenticator, Microsoft Authenticator
 * **Application Server Software:** Github
@@ -17,9 +19,6 @@ Computer Support Specialist with hands-on experience in hardware and software tr
 * **Electronic Mail Software:** Microsoft Outlook, Gmail, Yahoo
 * **File Versioning Software:** Git
 * **Office Suite Software:** Microsoft Office software
-* **Operating System Software:** Google Android, Microsoft Windows
-* **Spreadsheet Software:** Microsoft Excel, Google Sheets
-* **Video Conferencing Software:** Google Meet, Zoom
 * **Word Processing Software:** Google Docs, Microsoft OneNote, Microsoft Word
 
 ## Education
@@ -33,9 +32,11 @@ Computer Support Specialist with hands-on experience in hardware and software tr
 * **Cloud Computing:** Level I & II (Expected May 2026)
 * **Specialized:** AWS Cloud Security Foundations, Cisco Operating Systems Basics, AWS Fundamentals of Generative AI, IBM Getting Started with Generative AI, IBM Data Analytics for Machine Learning, Cisco Computer Hardware Basics
 
+## Projects
+* **Github HTML Resume:** Developed and deployed a responsive personal resume using HTML/CSS, hosted via GitHub Pages to provide an interactive, accessible version of my professional background for recruiters.
+
 ## Professional History
 * **Kitchen Line Cook** | Kingwood, TX (May 2023 - Jan 2024)
 * **DoorDasher** | Huntsville, TX (Jan 2022 - Dec 2022)
 * **Retail Associate** | Kingwood, TX (Oct 2019 - Jan 2022)
 * **General Manager** | Kingwood, TX (Oct 2011 - Jul 2017)
-* **Lifeguard** | Kingwood, TX (May 2010 - Oct 2011)
